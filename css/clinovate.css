@@ -1,5 +1,6 @@
 /* Apply to the body to make sure it takes up the full viewport height */
 body, html {
+	font-family: urbane, sans-serif;
     height: 100%;
     margin: 0;
     display: flex;
